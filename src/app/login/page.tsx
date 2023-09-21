@@ -139,7 +139,7 @@ const Login = (props: Props) => {
                   className={`w-full text-white hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ${
                     isLoading
                       ? "bg-gray-400 cursor-not-allowed"
-                      : "bg-black dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+                      : "bg-primary dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                   }`}
                   disabled={isLoading}
                 >

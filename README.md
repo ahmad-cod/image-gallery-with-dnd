@@ -4,7 +4,7 @@
 
 <br/>
 
-The Image Draggable Gallery is a web application that allows users to create and interact with draggable image galleries. It provides a user-friendly interface for managing and viewing a collection of images. This README will guide you through the process of setting up and using the application.
+The Image Gallery with drag and drop allows users to create and interact with draggable image galleries. It provides a user-friendly interface for managing and viewing a collection of images. This README will guide you through the process of setting up and using the application.
 
 ## Table of Contents
 
@@ -37,12 +37,12 @@ Before you begin, make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Tk-brainCodes/HNGx-Task-3.git
+   git clone https://github.com/ahmad-cod/image-gallery-with-dnd.git
    ```
 
 2. Change directory
    ```bash
-   cd HNGx-Task-3/image-draggable-gallery
+   cd HNGx-Task-3/image-gallery-with-dnd
    ```
 
 3. Install the project dependencies:
