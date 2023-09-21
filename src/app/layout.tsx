@@ -11,8 +11,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Photo Plus",
-  description: "Discover new photos, and upload your photos",
+  title: "Aro Gallery",
+  description: "Discover new photos, drag and drop images to reorder them",
 };
 
 export default function RootLayout({
