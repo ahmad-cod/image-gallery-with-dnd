@@ -20,9 +20,9 @@ function Header({}: Props) {
   return (
     <>
       <div className='w-full h-auto px-[2.7em] py-4 mb-[4em] border-b border-grey-200 flex items-center justify-between'>
-        <div className='flex gap-2'>
+      <div className='flex gap-2'>
           <IconPhotoPlus size={20} />
-          <span>Photo Plus</span>
+          <span>Aro Photo Plus</span>
         </div>
         <div className=''>
           {user ? (
